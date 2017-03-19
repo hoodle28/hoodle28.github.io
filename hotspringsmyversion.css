@@ -1,0 +1,89 @@
+html {
+  height: 100%;
+}
+body {
+   width: 1000px;
+   height: 100%;
+   background-color: #dddddd;
+   font-family:Arial;
+   margin-left: 100px;
+}
+
+header {
+    background-color:#594556 ;
+    padding: 0px;
+    border:10px solid #282F38;
+    font-size: 30px;
+    color:white;
+    display: block;
+}
+
+header h1 {text-align: center;
+  text-shadow: 1px 1px 1px #000;
+
+}
+
+nav {
+    float: left;
+}
+nav ul {
+    padding: ;
+    float: left;
+    border-bottom: ;
+    list-style-type: none;
+    margin-left: 90px;
+}
+nav li {
+    float: left;
+}
+nav li a {
+    display: block;
+    height: 25px;
+    padding: 12px 18px 8px 18px;
+    vertical-align: middle;
+    transition: background-color 0.5s ease;
+    background-color: #7B958F;
+}
+nav li a:hover {
+  background-color: #896175;}
+a {
+background-color: ;
+}
+
+section {
+    width: 100%;
+    display: inline-block;
+    float: left;
+
+}
+
+h2 {
+  margin-left: 340px;
+  padding:20px;
+  padding-bottom: 0px;
+}
+
+.goldmeyer {
+  background-color: #624D4E;
+  color:white;
+}
+
+.solduc {
+  background-color: #495157;
+  color:white;
+}
+
+.elwha {
+  background-color: #2D2C39;
+  color:white;
+}
+
+.hotspring {
+  height: 600px;
+  margin-left: 100px;
+
+}
+p{
+  padding: 15px;
+  text-align:center;
+}
